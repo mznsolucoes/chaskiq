@@ -339,6 +339,7 @@ GEM
       activerecord
       activesupport
     ffi (1.16.3)
+    ffi (1.16.3-java)
     ffi-compiler (1.0.1)
       ffi (>= 1.0.0)
       rake
@@ -379,6 +380,7 @@ GEM
       gapic-common (>= 0.20.0, < 2.a)
       google-cloud-errors (~> 1.0)
     google-protobuf (3.24.4)
+    google-protobuf (3.24.4-java)
     googleapis-common-protos (1.4.0)
       google-protobuf (~> 3.14)
       googleapis-common-protos-types (~> 1.2)
@@ -635,7 +637,8 @@ GEM
     responders (3.1.1)
       actionpack (>= 5.2)
       railties (>= 5.2)
-    rexml (3.2.6)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     roadie (5.2.0)
       css_parser (~> 1.4)
       nokogiri (~> 1.15)
@@ -737,6 +740,8 @@ GEM
       sprockets (>= 3.0.0)
     stringio (3.0.8)
     stripe (6.5.0)
+    strscan (3.1.0)
+    strscan (3.1.0-java)
     tailwindcss-rails (2.0.31)
       railties (>= 6.0.0)
     tailwindcss-rails (2.0.31-aarch64-linux)
